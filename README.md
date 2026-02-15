@@ -117,10 +117,10 @@
       <div>
         <h2 class="text-3xl font-bold mb-4">Hubungi Kami</h2>
         <p class="mb-2">📧 Email: msintegratedconsultancy@email.com</p>
-        <p class="mb-2">📞 Telefon: +6011-64269181</p>
+        <p class="mb-2">📞 Telefon: +6011-64269184</p>
         <p class="mb-2">📍 Lokasi: Melaka Malaysia</p>
 
-        <a href="https://wa.me/60XXXXXXXXX" target="_blank"
+        <a href="https://wa.me/6011-64269184" target="_blank"
            class="inline-block mt-4 bg-green-500 px-6 py-3 rounded-lg font-semibold hover:bg-green-600">
            WhatsApp Kami
         </a>
